@@ -1,5 +1,5 @@
 {
-  "name": "TDS Codespace Activity Dev Container",
+  "name": "ga2-b012b2",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {},
   "settings": {},
