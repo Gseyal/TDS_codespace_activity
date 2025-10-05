@@ -1,0 +1,11 @@
+{
+  "name": "TDS Codespace Activity Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "settings": {},
+  "postCreateCommand": "",
+  "customizations": {},
+  "forwardPorts": [],
+  "mounts": [],
+  "remoteUser": "vscode"
+}
